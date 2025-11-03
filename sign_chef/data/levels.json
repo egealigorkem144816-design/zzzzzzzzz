@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Hamburger",
+    "required": ["ekmek", "marul", "kofte"],
+    "palette": ["ekmek", "marul", "kofte", "domates", "ketcap", "peynir"]
+  },
+  {
+    "name": "Sebzeli Omlet",
+    "required": ["yumurta", "biber", "mantar"],
+    "palette": ["yumurta", "biber", "mantar", "peynir", "nane", "domates"]
+  },
+  {
+    "name": "Tavuklu Salata",
+    "required": ["marul", "tavuk", "salatalik"],
+    "palette": ["marul", "tavuk", "salatalik", "domates", "limon", "yogurt"]
+  },
+  {
+    "name": "Spagetti Napoliten",
+    "required": ["makarna", "domates", "feslegen"],
+    "palette": ["makarna", "domates", "feslegen", "peynir", "zeytin", "sogan"]
+  },
+  {
+    "name": "Izgara Somon",
+    "required": ["somon", "limon", "feslegen"],
+    "palette": ["somon", "limon", "feslegen", "patates", "marul", "zeytin"]
+  },
+  {
+    "name": "Çikolatalı Krep",
+    "required": ["krep", "cikolata", "muz"],
+    "palette": ["krep", "cikolata", "muz", "cilek", "krema", "bal"]
+  },
+  {
+    "name": "Sütlaç",
+    "required": ["sut", "pirinc", "tarcin"],
+    "palette": ["sut", "pirinc", "tarcin", "fistik", "vanilya", "muz"]
+  },
+  {
+    "name": "Zeytinyağlı Dolma",
+    "required": ["pirinc", "zeytin_yagi", "yaprak"],
+    "palette": ["pirinc", "zeytin_yagi", "yaprak", "nane", "limon", "sogan"]
+  },
+  {
+    "name": "Menemen",
+    "required": ["yumurta", "domates", "biber"],
+    "palette": ["yumurta", "domates", "biber", "sogan", "peynir", "maydanoz"]
+  },
+  {
+    "name": "Peynirli Gözleme",
+    "required": ["yufka", "peynir", "maydanoz"],
+    "palette": ["yufka", "peynir", "maydanoz", "patates", "sogan", "tursu"]
+  },
+  {
+    "name": "Ton Balıklı Sandviç",
+    "required": ["ekmek", "ton_balik", "marul"],
+    "palette": ["ekmek", "ton_balik", "marul", "yogurt", "limon", "salatalik"]
+  },
+  {
+    "name": "Mercimek Çorbası",
+    "required": ["mercimek", "sogan", "havuc"],
+    "palette": ["mercimek", "sogan", "havuc", "patates", "nane", "limon"]
+  },
+  {
+    "name": "Falafel Tabağı",
+    "required": ["falafel", "humus", "marul"],
+    "palette": ["falafel", "humus", "marul", "tursu", "domates", "nane"]
+  },
+  {
+    "name": "Fırın Patates",
+    "required": ["patates", "biber", "peynir"],
+    "palette": ["patates", "biber", "peynir", "ketcap", "maydanoz", "sogan"]
+  },
+  {
+    "name": "Meyve Salatası",
+    "required": ["muz", "cilek", "kivi"],
+    "palette": ["muz", "cilek", "kivi", "portakal", "yaban_mersini", "ananas"]
+  },
+  {
+    "name": "Pankek Kahvaltısı",
+    "required": ["pankek", "bal", "cilek"],
+    "palette": ["pankek", "bal", "cilek", "muz", "krema", "yaban_mersini"]
+  },
+  {
+    "name": "Kremalı Mantarlı Makarna",
+    "required": ["makarna", "mantar", "krema"],
+    "palette": ["makarna", "mantar", "krema", "sogan", "peynir", "feslegen"]
+  },
+  {
+    "name": "Domates Çorbası",
+    "required": ["domates", "krema", "feslegen"],
+    "palette": ["domates", "krema", "feslegen", "kruton", "peynir", "nane"]
+  },
+  {
+    "name": "Nohutlu Pilav",
+    "required": ["pirinc", "nohut", "tereyag"],
+    "palette": ["pirinc", "nohut", "tereyag", "havuc", "limon", "nane"]
+  },
+  {
+    "name": "Izgara Köfte Tabağı",
+    "required": ["kofte", "patates", "salata"],
+    "palette": ["kofte", "patates", "salata", "domates", "marul", "tursu"]
+  }
+]
